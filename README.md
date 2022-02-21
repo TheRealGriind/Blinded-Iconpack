@@ -12,4 +12,4 @@ The Icons found in this Icon pack does not use a direct copy/image of the icon p
 were used as referances to make some of the icons you see in this icon pack.
 
 All Icons for company or service logos (Such as Youtube, Twitch & Twitter) all used their
-original brand assets unless an extra "Original-Icon_Name-Colour" is present, these can be found on their respective websites.
+original brand assets unless an extra "Original-Icon_Name-Colou" is present, these can be found on their respective websites.
