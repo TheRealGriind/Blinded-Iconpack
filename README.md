@@ -1,6 +1,7 @@
 Version: 0.1.0
 
 These Icon packs were used as a referance source for this Icon Pack.
+
 https://www.flaticon.com/packs/music-228?style_id=864&family_id=231&group_id=168
 https://www.flaticon.com/packs/wifi-wireless-bluetooth-2?style_id=864&family_id=231&group_id=168
 https://www.flaticon.com/packs/classic-single-user-icon-set-1?style_id=864&family_id=231&group_id=168
